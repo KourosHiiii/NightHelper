@@ -69,7 +69,7 @@ class NightWidgetReceiver : AppWidgetProvider() {
                 ComponentName(context, NightWidgetReceiver::class.java)
             )
             if (ids.isNotEmpty()) {
-                manager.updateAll(ids, views)
+                manager.updateAppWidget(ids, views)
             }
         }
 
