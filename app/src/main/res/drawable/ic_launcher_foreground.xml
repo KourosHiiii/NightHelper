@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#33FFD98E"
+        android:pathData="M54,54 m-38,0 a38,38 0 1 1 76,0 a38,38 0 1 1 -76,0" />
+    <group
+        android:translateX="27"
+        android:translateY="27"
+        android:scaleX="2.25"
+        android:scaleY="2.25">
+        <path
+            android:fillColor="#FFFFD98E"
+            android:pathData="M12,3 C7.03,3 3,7.03 3,12 C3,16.97 7.03,21 12,21 C16.97,21 21,16.97 21,12 C21,11.54 20.96,11.08 20.9,10.64 C19.92,12.01 18.32,12.9 16.5,12.9 C13.52,12.9 11.1,10.48 11.1,7.5 C11.1,5.69 11.99,4.08 13.36,3.1 C12.92,3.04 12.46,3 12,3 Z" />
+    </group>
+    <group
+        android:translateX="70"
+        android:translateY="24"
+        android:scaleX="1.1"
+        android:scaleY="1.1">
+        <path
+            android:fillColor="#FFC3B3FF"
+            android:pathData="M12,2 L14.4,9.6 L22,12 L14.4,14.4 L12,22 L9.6,14.4 L2,12 L9.6,9.6 Z" />
+    </group>
+    <group
+        android:translateX="24"
+        android:translateY="70"
+        android:scaleX="0.7"
+        android:scaleY="0.7">
+        <path
+            android:fillColor="#FF8FE3C6"
+            android:pathData="M12,2 L14.4,9.6 L22,12 L14.4,14.4 L12,22 L9.6,14.4 L2,12 L9.6,9.6 Z" />
+    </group>
+</vector>

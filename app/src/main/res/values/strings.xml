@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NightHelper</string>
+    <string name="app_subtitle">شب‌یار شب‌های آرام تو</string>
+
+    <string name="flow_title">چک‌لیست شب</string>
+    <string name="flow_progress_fmt">%1$s از %2$s</string>
+    <string name="all_done_title">تمومه!</string>
+    <string name="all_done_sub">همه کارهای امشب انجام شد</string>
+    <string name="btn_goodnight">بگو شب بخیر</string>
+    <string name="btn_done">انجام شد</string>
+    <string name="btn_later">هنوز نه</string>
+    <string name="btn_save_text">ثبت کن</string>
+    <string name="btn_skip">رد کردن</string>
+    <string name="text_hint">همین‌جا بنویس…</string>
+    <string name="content_settings">تنظیمات</string>
+
+    <string name="goodnight_title">شب بخیر</string>
+    <string name="goodnight_sub_fmt">%1$s از %2$s کار شبانه انجام شد</string>
+    <string name="tip_label">کار کوچک امشب</string>
+    <string name="missed_title">کارهای نیمه‌تمام</string>
+    <string name="missed_sub">برو فردا دوباره شروع می‌کنیم</string>
+    <string name="gratitude_label">امشب شکرگزار این هستی:</string>
+    <string name="btn_close_night">بستن شب و ذخیره گزارش</string>
+    <string name="saved_chip">گزارش ذخیره شد</string>
+    <string name="btn_history">گزارش شب‌ها</string>
+    <string name="btn_back">بازگشت</string>
+
+    <string name="settings_title">تنظیمات</string>
+    <string name="sec_triggers">تریگرهای سریع</string>
+    <string name="trigger_flip">ژست چرخش گوشی</string>
+    <string name="trigger_flip_desc">گوشی رو برگردون تا چک‌لیست باز بشه</string>
+    <string name="trigger_notif">اعلان دائمی</string>
+    <string name="trigger_notif_desc">میان‌بر همیشگی توی نوار وضعیت</string>
+    <string name="trigger_haptic">لرزش لمسی</string>
+    <string name="trigger_haptic_desc">بازخورد لمسی موقع ثبت هر کار</string>
+    <string name="overlay_needed">برای باز شدن سریع اپ بعد از چرخش گوشی، بهتره مجوز «نمایش روی سایر برنامه‌ها» رو بدی</string>
+    <string name="btn_overlay">اعطای مجوز</string>
+    <string name="sec_items">آیتم‌های چک‌لیست</string>
+    <string name="item_type_yesno">بله / نه</string>
+    <string name="item_type_text">متن</string>
+    <string name="btn_add_item">افزودن آیتم جدید</string>
+    <string name="btn_restore">بازگردانی پیش‌فرض‌ها</string>
+    <string name="dialog_edit_title">ویرایش آیتم</string>
+    <string name="dialog_add_title">آیتم جدید</string>
+    <string name="field_label">متن سؤال</string>
+    <string name="btn_cancel">بی‌خیال</string>
+    <string name="btn_delete">حذف</string>
+    <string name="confirm_delete">این آیتم حذف بشه؟</string>
+    <string name="confirm_restore">آیتم‌های پیش‌فرض برگردن و بقیه حذف بشن؟</string>
+    <string name="sec_about">درباره</string>
+    <string name="about_text">NightHelper — ساخته‌شده برای شب‌های آرام</string>
+    <string name="version_fmt">نسخه %1$s</string>
+
+    <string name="history_title">گزارش شب‌ها</string>
+    <string name="history_empty">هنوز گزارشی ثبت نشده</string>
+    <string name="history_empty_sub">چند شب چک‌لیست رو کامل کن تا اینجا ببینیش</string>
+    <string name="history_completed_fmt">%1$s از %2$s انجام شد</string>
+    <string name="history_missed_fmt">نیمه‌تمام: %1$s</string>
+    <string name="history_closed_fmt">بسته‌شده</string>
+    <string name="history_open_fmt">نیمه‌کاره مونده</string>
+
+    <string name="notif_channel_service">سرویس NightHelper</string>
+    <string name="notif_channel_night">هشدارهای شب</string>
+    <string name="notif_channel_service_desc">حالت همیشه‌فعال برای ژست چرخش</string>
+    <string name="notif_channel_night_desc">یادآوری‌های شبانه</string>
+    <string name="notif_service_title">NightHelper فعاله</string>
+    <string name="notif_service_text">ژست چرخش و میان‌بر شب آماده‌ست</string>
+    <string name="notif_action_start">شروع شب</string>
+    <string name="notif_action_settings">تنظیمات</string>
+    <string name="notif_flip_title">وقت چک‌لیست شباست</string>
+    <string name="notif_flip_text">برای شروع لمس کن</string>
+
+    <string name="widget_title">NightHelper</string>
+    <string name="widget_action">شروع</string>
+    <string name="widget_desc">میان‌بر چک‌لیست شب</string>
+    <string name="widget_progress_fmt">%1$s از %2$s انجام شد</string>
+    <string name="widget_all_done">همه انجام شد</string>
+</resources>
